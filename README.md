@@ -5635,3 +5635,16 @@ twitter数据服务，解决风控限制，次数限制，账号管理问题
     }
 ]
 ```
+
+##### 一、twitter搜索 列表（可采全）
+https://api.twitter.com/1.1/search/tweets.json?q=lang:zh
+* Post:/twitter_api/searche 
+
+| 名称  | 类型   | 含义                                   |
+| ----- | ------ | -------------------------------------- |
+| q   | String | 搜索内容,eg:lang:zh,北京         |
+
+| token | String | 用户标识                               |
+* 返回：
+
+```json
