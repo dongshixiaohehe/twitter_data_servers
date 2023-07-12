@@ -1,7 +1,20 @@
 # twitter_data_servers
 twitter数据服务，解决风控限制，次数限制，账号管理问题
 #### 服务地址 联系qq:1095087360
-##### 一、twitter用户列表（可采全）
+##### 一、twitter搜索 列表（可采全）
+https://api.twitter.com/1.1/search/tweets.json?q=lang:zh
+* Post:/twitter_api/searche 
+
+| 名称  | 类型   | 含义                                   |
+| ----- | ------ | -------------------------------------- |
+| q   | String | 搜索内容,eg:lang:zh,北京         |
+
+| token | String | 用户标识                               |
+* 返回：
+
+```json
+
+##### 二、twitter用户列表（可采全）
 
 * Post:/twitter_api/user_timeline
 
