@@ -1,5 +1,6 @@
 # twitter_data_servers
-twitter数据服务，解决风控限制，次数限制，账号管理问题,可提供数亿级数据
+推特大数据推送
+twitter数据服务，解决风控限制，次数限制，账号管理问题,可提供日数据2亿推送
 #### 服务地址 联系qq:1095087360
 ##### 一、  twitter搜索 列表（可采全）
 https://api.twitter.com/1.1/search/tweets.json?q=lang:zh
