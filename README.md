@@ -3,7 +3,7 @@
 twitter数据采集 推特数据采集
 twitter数据服务解决风控限制，次数限制，  账号管理问题,可提供日数据2亿推送
 #### 服务地址 联系qq:1095087360
-##### 一、  twitter搜索 列表（可采全）
+##### 一、  twitter搜索 列表 （可采全）
 
 * Post:/twitter_api/search
 
