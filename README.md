@@ -1,7 +1,7 @@
 # twitter_data_servers
 # 推特大数据推送
 twitter数据采集推特数据采集
-twitter数据服务解决风控限制，次数限制，账号管理问题, 可提供日数据2亿推送
+twitter数据服务解决风控限制，次数限制， 账号管理问题, 可提供日数据2亿推送
 #### 服务地址 联系 飞机 https://t.me/dada123api  
 ##### 一、  twitter搜索 列表 （可采全）
 
