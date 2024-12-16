@@ -5,7 +5,7 @@ twitter数据服务解决风控限制，次数限制， 账号管理问题,  可
 ins  主页 评论采集
 facebook  主页  话题 评论采集
 tiktok  主页 评论采集
-#### 服务地址 联系 飞机 https://t.me/dada123api    q:1095087360
+#### 服务地址 联系 飞机 https://t.me/dada123api  
 ##### 一、  twitter搜索 列表 （可采全）
 
 * Post:/twitter_api/search
