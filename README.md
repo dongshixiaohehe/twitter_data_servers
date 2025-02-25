@@ -1,7 +1,7 @@
 # twitter_data_servers
 # 推特大数据推送
 twitter数据采集推特数据采集
-twitter数据服务解决风控限制，次数限制， 账号管理问题, 可提供日数据2亿推送 
+twitter数据服务解决风控限制，次数限制，账号管理问题, 可提供日数据2亿推送 
 ins  主页 评论采集
 facebook  主页  话题 评论采集
 tiktok  主页 评论采集
